@@ -1,0 +1,24 @@
+.airplane-container {
+  
+ background-image: url(./images/maho-beach-sint-maarten-caribbean-600nw-1298561389.webp);
+ background-repeat: no-repeat;
+ background-position: center;
+max-width: 100%;
+height: 25vh;
+   
+}
+#manoi {
+    max-width: 100%;
+}
+.red {
+    color: red;
+}
+.beer-div img {
+width: 425px;
+height: auto;
+}
+
+
+#timer {
+    background-color: aqua;
+}
